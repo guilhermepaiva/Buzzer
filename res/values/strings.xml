@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Buzzer</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_sign_up_or_log_in">SignUpOrLogInActivity</string>
+    <string name="log_in">Logar</string>
+    <string name="sign_up">Cadastrar</string>
+    <string name="powered_by">Desenvolvido por</string>
+    <string name="parse">Buzzer Company - CIn/UFPE</string>
+    <string name="slogan">Fique Alerta e fuja de uma roubada</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="feet_250">75 metros</string>
+    <string name="feet_1000">300 metros</string>
+    <string name="feet_4000">1 quilômetro</string>
+    <string name="search_distance">Buscar Distância</string>
+    <string name="log_out">Sair do Buzzer</string>
+    <string name="post">Alertar uma ocorrência</string>
+    <string name="post_out_of_range">Não se pode ver uma ocorrência, chegue mais perto.</string>
+
+</resources>
